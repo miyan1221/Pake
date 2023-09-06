@@ -1,6 +1,24 @@
 {
   "apps": [
     {
+      "name": "magicgpt",
+      "title": "MagicGPT",
+      "name_zh": "MagicGPT",
+      "url": "https://sharetoken.sundayplus.site/"
+    },
+    {
+      "name": "progpt",
+      "title": ProGPT",
+      "name_zh": "ProGPT",
+      "url": "https://prod.sundayplus.site/"
+    },
+     {
+      "name": "docslearn",
+      "title": DocsLearn",
+      "name_zh": "DocsLearn",
+      "url": "https://docs.byd2.fun/"
+    },
+    {
       "name": "programmusic",
       "title": "ProgramMusic",
       "name_zh": "ProgramMusic",
